@@ -1,0 +1,11 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Example Produc",
+      "description": "This is an example product",
+      "percentComplete": 26,
+      "favorite": true
+    }
+  ]
+}
